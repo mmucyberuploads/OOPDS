@@ -1,2 +1,2 @@
 # OOPDS
-Robot War - A Turn Based Game
+Robot War - A Turn Based Game Simulator
