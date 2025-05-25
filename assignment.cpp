@@ -376,6 +376,50 @@ public:
     }
 };
 
+class ThirtyShotBot : public GenericRobot {
+public:
+    ThirtyShotBot(string n, char sym, int startX, int startY, int hp, int ammo, int extraLives)
+        : GenericRobot(n, sym, startX, startY, hp, 30, extraLives) {} // 30 fresh shells
+
+    void fire(vector<Robot*>& robots) override {
+        if (!alive || shells <= 0) return;
+
+        Robot* target = nullptr;
+
+        // Look for nearest target in 8 surrounding squares
+        for (Robot* r : robots) {
+            if (r != this && r->isAlive()) {
+                int dx = abs(r->getX() - x);
+                int dy = abs(r->getY() - y);
+                if ((dx <= 1 && dy <= 1) && !(dx == 0 && dy == 0)) {
+                    target = r;
+                    break;
+                }
+            }
+        }
+
+        if (!target) {
+            cout << name << " sees no nearby target to fire at." << endl;
+            return;
+        }
+
+        cout << name << " (ThirtyShotBot) fires at " << target->getName() << "! ";
+        shells--;
+
+        bool hit = (rand() % 100) < 70;
+        if (hit) {
+            cout << "HIT!" << endl;
+            target->takeDamage();
+        } else {
+            cout << "misses." << endl;
+        }
+
+        if (shells <= 0) {
+            cout << name << " has used all 30 shells and will self-destruct!" << endl;
+            destroySelf();
+        }
+    }
+};
 
  // Fire: single-shot or triple-shot based on upgrades, and handle upgrades on kill
 void GenericRobot::fire(vector<Robot*>& robots) {
