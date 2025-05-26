@@ -1,8 +1,8 @@
-M by N : 36 38
+M by N : 10 10
 steps: 300
 robots: 5
 GenericRobot Kidd 3 6
-GenericRobot Jet 12 1
-GenericRobot Alpha 35 20
-GenericRobot Beta 20 37
+GenericRobot Jet random random
+GenericRobot Alpha random random
+GenericRobot Beta random random
 GenericRobot Star random random
