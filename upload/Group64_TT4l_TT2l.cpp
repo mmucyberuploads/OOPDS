@@ -2,12 +2,12 @@
 Program: Group64_TT4l_TT2l.cpp
 Course: OOPDS
 Trimester: 2510
-Name: Chetan Rana, 
-ID: 242UC241RV,
+Name: Chetan Rana, Ainul Hafiz, Samad Tamim,
+ID: 242UC241RV,243UC2466D,1221304756,
 Lecture Section: TC1L
 Tutorial Section: TT4L,TT2L
-Email: rana.chetan@student.mmu.edu.my,
-Phone: 0192647906,
+Email: rana.chetan@student.mmu.edu.my,muhammad.ainul.hafiz@student.mmu.edu.my,1221304756@student.mmu.edu.my,
+Phone: 0192647906,0175568901.01115428845,
 **********|**********|**********/
 #include <iostream> 
 #include <fstream> 
