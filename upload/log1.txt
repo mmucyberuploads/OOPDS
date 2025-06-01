@@ -1,0 +1,1361 @@
+----- Turn 1 -----
+**********************
+*. . . . C . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . D *
+*. . . . . . . . . . *
+*. . . A . . . . . . *
+*. B . . . . . . . . *
+*. . . . . . . . E . *
+*. . . . . . . . . . *
+**********************
+Kidd is thinking...
+  Kidd sees no one.
+Kidd moves to (2,7)
+
+Jet is thinking...
+  Jet sees Kidd at (2,7)
+Jet fires at Kidd... HIT!
+  Kidd is hit! (Health=0)
+  Kidd is destroyed!
+Jet gets an upgrade!
+Jet upgraded to TrackBot.
+Jet moves to (2,7)
+
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (5,0)
+
+Beta is thinking...
+  Beta sees no one.
+Beta moves to (9,3)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (9,9)
+
+--- Status after Turn 1 ---
+Kidd at (2,7) HP=0 shells=10 lives=1 | Kills: 0 Deaths: 1 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (2,7) HP=1 shells=9 lives=2 | Kills: 1 Deaths: 0 K/D: 1.00 | Upgrades: TrackBot 
+Alpha at (5,0) HP=1 shells=10 lives=2 | Kills: 0 Deaths: 0 K/D: 0.00 | Upgrades: 
+Beta at (9,3) HP=1 shells=10 lives=2 | Kills: 0 Deaths: 0 K/D: 0.00 | Upgrades: 
+Star at (9,9) HP=1 shells=10 lives=2 | Kills: 0 Deaths: 0 K/D: 0.00 | Upgrades: 
+
+----- Turn 2 -----
+**********************
+*. . . . . C . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . D *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . B . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . E *
+**********************
+Kidd respawns at (3,4) with 1 health and 10 shells
+Kidd is thinking...
+  Kidd sees no one.
+Kidd moves to (2,5)
+
+Jet is thinking...
+Jet tracked 3 robots.
+  Jet sees Alpha at (5,0)
+  Jet sees Beta at (9,3)
+  Jet sees Star at (9,9)
+Jet sees no adjacent target to fire at.
+Jet moves toward Star to (3,8)
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (4,1)
+
+Beta is thinking...
+  Beta sees no one.
+Beta moves to (9,4)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (8,8)
+
+--- Status after Turn 2 ---
+Kidd at (2,5) HP=1 shells=10 lives=1 | Kills: 0 Deaths: 1 K/D: 0.00 | Upgrades: 
+Jet at (3,8) HP=1 shells=9 lives=2 | Kills: 1 Deaths: 0 K/D: 1.00 | Upgrades: TrackBot 
+Alpha at (4,1) HP=1 shells=10 lives=2 | Kills: 0 Deaths: 0 K/D: 0.00 | Upgrades: 
+Beta at (9,4) HP=1 shells=10 lives=2 | Kills: 0 Deaths: 0 K/D: 0.00 | Upgrades: 
+Star at (8,8) HP=1 shells=10 lives=2 | Kills: 0 Deaths: 0 K/D: 0.00 | Upgrades: 
+
+----- Turn 3 -----
+**********************
+*. . . . . . . . . . *
+*. . . . C . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . D *
+*. . A . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . B . . . . E . *
+*. . . . . . . . . . *
+**********************
+Kidd is thinking...
+  Kidd sees no one.
+Kidd moves to (1,4)
+
+Jet is thinking...
+  Jet sees Alpha at (4,1)
+  Jet sees Beta at (9,4)
+  Jet sees Star at (8,8)
+Jet sees no adjacent target to fire at.
+Jet moves toward Star to (4,8)
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (5,0)
+
+Beta is thinking...
+  Beta sees no one.
+Beta moves to (8,5)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (7,9)
+
+--- Status after Turn 3 ---
+Kidd at (1,4) HP=1 shells=10 lives=1 | Kills: 0 Deaths: 1 K/D: 0.00 | Upgrades: 
+Jet at (4,8) HP=1 shells=9 lives=2 | Kills: 1 Deaths: 0 K/D: 1.00 | Upgrades: TrackBot 
+Alpha at (5,0) HP=1 shells=10 lives=2 | Kills: 0 Deaths: 0 K/D: 0.00 | Upgrades: 
+Beta at (8,5) HP=1 shells=10 lives=2 | Kills: 0 Deaths: 0 K/D: 0.00 | Upgrades: 
+Star at (7,9) HP=1 shells=10 lives=2 | Kills: 0 Deaths: 0 K/D: 0.00 | Upgrades: 
+
+----- Turn 4 -----
+**********************
+*. . . . . C . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. A . . . . . . . . *
+*. . . . . . . . D . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . B . . . . . *
+*. . . . . . . E . . *
+**********************
+Kidd is thinking...
+  Kidd sees no one.
+Kidd moves to (0,3)
+
+Jet is thinking...
+  Jet sees Alpha at (5,0)
+  Jet sees Beta at (8,5)
+  Jet sees Star at (7,9)
+Jet sees no adjacent target to fire at.
+Jet moves toward Star to (5,9)
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (4,0)
+
+Beta is thinking...
+  Beta sees no one.
+Beta moves to (7,5)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (8,8)
+
+--- Status after Turn 4 ---
+Kidd at (0,3) HP=1 shells=10 lives=1 | Kills: 0 Deaths: 1 K/D: 0.00 | Upgrades: 
+Jet at (5,9) HP=1 shells=9 lives=2 | Kills: 1 Deaths: 0 K/D: 1.00 | Upgrades: TrackBot 
+Alpha at (4,0) HP=1 shells=10 lives=2 | Kills: 0 Deaths: 0 K/D: 0.00 | Upgrades: 
+Beta at (7,5) HP=1 shells=10 lives=2 | Kills: 0 Deaths: 0 K/D: 0.00 | Upgrades: 
+Star at (8,8) HP=1 shells=10 lives=2 | Kills: 0 Deaths: 0 K/D: 0.00 | Upgrades: 
+
+----- Turn 5 -----
+**********************
+*. . . . C . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*A . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . D . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . E . *
+*. . . . . B . . . . *
+**********************
+Kidd is thinking...
+  Kidd sees no one.
+Kidd moves to (1,2)
+
+Jet is thinking...
+  Jet sees Alpha at (4,0)
+  Jet sees Beta at (7,5)
+  Jet sees Star at (8,8)
+Jet sees no adjacent target to fire at.
+Jet moves toward Star to (6,8)
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (5,0)
+
+Beta is thinking...
+  Beta sees no one.
+Beta moves to (6,4)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (7,8)
+
+--- Status after Turn 5 ---
+Kidd at (1,2) HP=1 shells=10 lives=1 | Kills: 0 Deaths: 1 K/D: 0.00 | Upgrades: 
+Jet at (6,8) HP=1 shells=9 lives=2 | Kills: 1 Deaths: 0 K/D: 1.00 | Upgrades: TrackBot 
+Alpha at (5,0) HP=1 shells=10 lives=2 | Kills: 0 Deaths: 0 K/D: 0.00 | Upgrades: 
+Beta at (6,4) HP=1 shells=10 lives=2 | Kills: 0 Deaths: 0 K/D: 0.00 | Upgrades: 
+Star at (7,8) HP=1 shells=10 lives=2 | Kills: 0 Deaths: 0 K/D: 0.00 | Upgrades: 
+
+----- Turn 6 -----
+**********************
+*. . . . . C . . . . *
+*. . . . . . . . . . *
+*. A . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . D . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . B E . . *
+*. . . . . . . . . . *
+**********************
+Kidd is thinking...
+  Kidd sees no one.
+Kidd moves to (2,2)
+
+Jet is thinking...
+  Jet sees Alpha at (5,0)
+  Jet sees Beta at (6,4)
+  Jet sees Star at (7,8)
+Jet fires at Star... HIT!
+  Star is hit! (Health=0)
+  Star is destroyed!
+Jet gets an upgrade!
+Jet upgraded to ThirtyShotBot.
+Jet moves toward Beta to (6,7)
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (4,0)
+
+Beta is thinking...
+  Beta sees no one.
+Beta moves to (6,3)
+
+--- Status after Turn 6 ---
+Kidd at (2,2) HP=1 shells=10 lives=1 | Kills: 0 Deaths: 1 K/D: 0.00 | Upgrades: 
+Jet at (6,7) HP=1 shells=30 lives=2 | Kills: 2 Deaths: 0 K/D: 2.00 | Upgrades: ThirtyShotBot TrackBot 
+Alpha at (4,0) HP=1 shells=10 lives=2 | Kills: 0 Deaths: 0 K/D: 0.00 | Upgrades: 
+Beta at (6,3) HP=1 shells=10 lives=2 | Kills: 0 Deaths: 0 K/D: 0.00 | Upgrades: 
+Star at (7,8) HP=0 shells=10 lives=1 | Kills: 0 Deaths: 1 K/D: 0.00 | Upgrades:  [DEAD]
+
+----- Turn 7 -----
+**********************
+*. . . . C . . . . . *
+*. . . . . . . . . . *
+*. . A . . . . . . . *
+*. . . . . . D . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . B . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Star respawns at (3,7) with 1 health and 10 shells
+Kidd is thinking...
+  Kidd sees no one.
+Kidd moves to (3,1)
+
+Jet is thinking...
+  Jet sees Alpha at (4,0)
+  Jet sees Beta at (6,3)
+  Jet sees Star at (3,7)
+Jet sees no adjacent target to fire at.
+Jet moves toward Star to (5,7)
+Alpha is thinking...
+  Alpha sees Kidd at (3,1)
+Alpha fires at Kidd... HIT!
+  Kidd is hit! (Health=0)
+  Kidd is destroyed!
+Alpha gets an upgrade!
+Alpha upgraded to ScoutBot.
+Alpha moves to (3,1)
+
+Beta is thinking...
+  Beta sees no one.
+Beta moves to (7,3)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (2,8)
+
+--- Status after Turn 7 ---
+Kidd at (3,1) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 2 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (5,7) HP=1 shells=30 lives=2 | Kills: 2 Deaths: 0 K/D: 2.00 | Upgrades: ThirtyShotBot TrackBot 
+Alpha at (3,1) HP=1 shells=9 lives=2 | Kills: 1 Deaths: 0 K/D: 1.00 | Upgrades: ScoutBot(3) 
+Beta at (7,3) HP=1 shells=10 lives=2 | Kills: 0 Deaths: 0 K/D: 0.00 | Upgrades: 
+Star at (2,8) HP=1 shells=10 lives=1 | Kills: 0 Deaths: 1 K/D: 0.00 | Upgrades: 
+
+----- Turn 8 -----
+**********************
+*. . . . . . . . . . *
+*. . . C . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . D . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . B . . . . *
+*. . E . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Kidd respawns at (3,6) with 1 health and 10 shells
+Kidd is thinking...
+  Kidd sees no one.
+Kidd moves to (2,7)
+
+Jet is thinking...
+  Jet sees Alpha at (3,1)
+  Jet sees Beta at (7,3)
+  Jet sees Star at (2,8)
+Jet sees no adjacent target to fire at.
+Jet moves toward Star to (4,8)
+Alpha is thinking...
+Alpha uses ScoutBot scan (3 left):
+  Alpha sees Kidd at (2,7)
+  Alpha sees Jet at (4,8)
+  Alpha sees Beta at (7,3)
+  Alpha sees Star at (2,8)
+Alpha sees no adjacent target to fire at.
+Alpha moves toward Beta to (4,2)
+Beta is thinking...
+  Beta sees no one.
+Beta moves to (7,4)
+
+Star is thinking...
+  Star sees Kidd at (2,7)
+Star fires at Kidd... HIT!
+  Kidd is hit! (Health=0)
+  Kidd is destroyed!
+Star gets an upgrade!
+Star upgraded to ScoutBot.
+Star moves to (1,8)
+
+--- Status after Turn 8 ---
+Kidd at (2,7) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (4,8) HP=1 shells=30 lives=2 | Kills: 2 Deaths: 0 K/D: 2.00 | Upgrades: ThirtyShotBot TrackBot 
+Alpha at (4,2) HP=1 shells=9 lives=2 | Kills: 1 Deaths: 0 K/D: 1.00 | Upgrades: ScoutBot(2) 
+Beta at (7,4) HP=1 shells=10 lives=2 | Kills: 0 Deaths: 0 K/D: 0.00 | Upgrades: 
+Star at (1,8) HP=1 shells=9 lives=1 | Kills: 1 Deaths: 1 K/D: 1.00 | Upgrades: ScoutBot(3) 
+
+----- Turn 9 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . C . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . D . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. E . . B . . . . . *
+*. . . . . . . . . . *
+**********************
+Jet is thinking...
+  Jet sees Alpha at (4,2)
+  Jet sees Beta at (7,4)
+  Jet sees Star at (1,8)
+Jet sees no adjacent target to fire at.
+Jet moves toward Star to (3,8)
+Alpha is thinking...
+Alpha uses ScoutBot scan (2 left):
+  Alpha sees Jet at (3,8)
+  Alpha sees Beta at (7,4)
+  Alpha sees Star at (1,8)
+Alpha sees no adjacent target to fire at.
+Alpha moves toward Beta to (5,3)
+Beta is thinking...
+  Beta sees no one.
+Beta moves to (6,4)
+
+Star is thinking...
+Star uses ScoutBot scan (3 left):
+  Star sees Jet at (3,8)
+  Star sees Alpha at (5,3)
+  Star sees Beta at (6,4)
+Star sees no adjacent target to fire at.
+Star moves toward Jet to (2,8)
+--- Status after Turn 9 ---
+Kidd at (2,7) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (3,8) HP=1 shells=30 lives=2 | Kills: 2 Deaths: 0 K/D: 2.00 | Upgrades: ThirtyShotBot TrackBot 
+Alpha at (5,3) HP=1 shells=9 lives=2 | Kills: 1 Deaths: 0 K/D: 1.00 | Upgrades: ScoutBot(1) 
+Beta at (6,4) HP=1 shells=10 lives=2 | Kills: 0 Deaths: 0 K/D: 0.00 | Upgrades: 
+Star at (2,8) HP=1 shells=9 lives=1 | Kills: 1 Deaths: 1 K/D: 1.00 | Upgrades: ScoutBot(2) 
+
+----- Turn 10 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . C . . . . *
+*. . . . . . D . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . E B . . . . . . *
+*. . . . . . . . . . *
+**********************
+Jet is thinking...
+  Jet sees Alpha at (5,3)
+  Jet sees Beta at (6,4)
+  Jet sees Star at (2,8)
+Jet fires at Star... HIT!
+  Star is hit! (Health=0)
+  Star is destroyed!
+Jet gets an upgrade!
+Jet upgraded to HideBot.
+Jet moves toward Alpha to (4,7)
+Alpha is thinking...
+Alpha uses ScoutBot scan (1 left):
+  Alpha sees Jet at (4,7)
+  Alpha sees Beta at (6,4)
+Alpha fires at Beta... HIT!
+  Beta is hit! (Health=0)
+  Beta is destroyed!
+Alpha gets an upgrade!
+Alpha upgraded to JumpBot.
+Alpha jumps to (5,7) near Jet
+--- Status after Turn 10 ---
+Kidd at (2,7) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (4,7) HP=1 shells=29 lives=2 | Kills: 3 Deaths: 0 K/D: 3.00 | Upgrades: HideBot(3) ThirtyShotBot TrackBot 
+Alpha at (5,7) HP=1 shells=8 lives=2 | Kills: 2 Deaths: 0 K/D: 2.00 | Upgrades: JumpBot(2) ScoutBot(0) 
+Beta at (6,4) HP=0 shells=10 lives=1 | Kills: 0 Deaths: 1 K/D: 0.00 | Upgrades:  [DEAD]
+Star at (2,8) HP=0 shells=9 lives=0 | Kills: 1 Deaths: 2 K/D: 0.50 | Upgrades: ScoutBot(2)  [DEAD]
+
+----- Turn 11 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . B C . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Beta respawns at (9,0) with 1 health and 10 shells
+Jet is hidden and invulnerable this turn.
+  Jet sees Alpha at (5,7)
+  Jet sees Beta at (9,0)
+Jet fires at Alpha... HIT!
+  Alpha is hit! (Health=0)
+  Alpha is destroyed!
+Jet moves toward Beta to (5,6)
+Beta is thinking...
+  Beta sees no one.
+Beta moves to (8,1)
+
+--- Status after Turn 11 ---
+Kidd at (2,7) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (5,6) HP=1 shells=28 lives=2 | Kills: 4 Deaths: 0 K/D: 4.00 | Upgrades: HideBot(2) ThirtyShotBot TrackBot 
+Alpha at (5,7) HP=0 shells=8 lives=1 | Kills: 2 Deaths: 1 K/D: 2.00 | Upgrades: JumpBot(2) ScoutBot(0)  [DEAD]
+Beta at (8,1) HP=1 shells=10 lives=1 | Kills: 0 Deaths: 1 K/D: 0.00 | Upgrades: 
+Star at (2,8) HP=0 shells=9 lives=0 | Kills: 1 Deaths: 2 K/D: 0.50 | Upgrades: ScoutBot(2)  [DEAD]
+
+----- Turn 12 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . D . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Star respawns at (8,5) with 1 health and 9 shells
+Jet is hidden and invulnerable this turn.
+  Jet sees Beta at (8,1)
+  Jet sees Star at (8,5)
+Jet sees no adjacent target to fire at.
+Jet moves toward Star to (6,5)
+Beta is thinking...
+  Beta sees no one.
+Beta moves to (9,2)
+
+Star is thinking...
+Star uses ScoutBot scan (2 left):
+  Star sees Beta at (9,2)
+Star sees no adjacent target to fire at.
+Star moves toward Beta to (9,4)
+--- Status after Turn 12 ---
+Kidd at (2,7) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (6,5) HP=1 shells=28 lives=2 | Kills: 4 Deaths: 0 K/D: 4.00 | Upgrades: HideBot(1) ThirtyShotBot TrackBot 
+Alpha at (5,7) HP=0 shells=8 lives=1 | Kills: 2 Deaths: 1 K/D: 2.00 | Upgrades: JumpBot(2) ScoutBot(0)  [DEAD]
+Beta at (9,2) HP=1 shells=10 lives=1 | Kills: 0 Deaths: 1 K/D: 0.00 | Upgrades: 
+Star at (9,4) HP=1 shells=9 lives=0 | Kills: 1 Deaths: 2 K/D: 0.50 | Upgrades: ScoutBot(1) 
+
+----- Turn 13 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . D *
+*. . . . . . . . . . *
+*. . . . . . . . . E *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha respawns at (1,0) with 1 health and 8 shells
+Jet is hidden and invulnerable this turn.
+  Jet sees Alpha at (1,0)
+  Jet sees Beta at (9,2)
+  Jet sees Star at (9,4)
+Jet sees no adjacent target to fire at.
+Jet moves toward Star to (7,4)
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (0,1)
+
+Beta is thinking...
+  Beta sees no one.
+Beta moves to (9,3)
+
+Star is thinking...
+Star uses ScoutBot scan (1 left):
+  Star sees Jet at (7,4)
+  Star sees Alpha at (0,1)
+  Star sees Beta at (9,3)
+Star fires at Beta... HIT!
+  Beta is hit! (Health=0)
+  Beta is destroyed!
+Star gets an upgrade!
+Star upgraded to CrossShooter.
+Star moves toward Jet to (8,4)
+--- Status after Turn 13 ---
+Kidd at (2,7) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,4) HP=1 shells=28 lives=2 | Kills: 4 Deaths: 0 K/D: 4.00 | Upgrades: HideBot(0) ThirtyShotBot TrackBot 
+Alpha at (0,1) HP=1 shells=8 lives=1 | Kills: 2 Deaths: 1 K/D: 2.00 | Upgrades: JumpBot(2) ScoutBot(0) 
+Beta at (9,3) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 2 K/D: 0.00 | Upgrades:  [DEAD]
+Star at (8,4) HP=1 shells=8 lives=0 | Kills: 2 Deaths: 2 K/D: 1.00 | Upgrades: CrossShooter ScoutBot(0) 
+
+----- Turn 14 -----
+**********************
+*. . . . . . . . . . *
+*C . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . B E . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Beta respawns at (2,8) with 1 health and 10 shells
+Jet is thinking...
+  Jet sees Alpha at (0,1)
+  Jet sees Beta at (2,8)
+  Jet sees Star at (8,4)
+Jet fires at Star... misses.
+Jet moves to (8,3)
+
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (0,2)
+
+Beta is thinking...
+  Beta sees no one.
+Beta moves to (2,9)
+
+Star is thinking...
+  Star sees Jet at (8,3)
+Star fires in X pattern!
+  No valid targets in X pattern, falling back to regular fire.
+Star fires at Jet... HIT!
+  Jet is hit! (Health=0)
+  Jet is destroyed!
+Star gets an upgrade!
+Star upgraded to HideBot.
+Star moves to (8,3)
+
+--- Status after Turn 14 ---
+Kidd at (2,7) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (8,3) HP=0 shells=27 lives=1 | Kills: 4 Deaths: 1 K/D: 4.00 | Upgrades: HideBot(0) ThirtyShotBot TrackBot  [DEAD]
+Alpha at (0,2) HP=1 shells=8 lives=1 | Kills: 2 Deaths: 1 K/D: 2.00 | Upgrades: JumpBot(2) ScoutBot(0) 
+Beta at (2,9) HP=1 shells=10 lives=0 | Kills: 0 Deaths: 2 K/D: 0.00 | Upgrades: 
+Star at (8,3) HP=1 shells=7 lives=0 | Kills: 3 Deaths: 2 K/D: 1.50 | Upgrades: HideBot(3) CrossShooter ScoutBot(0) 
+
+----- Turn 15 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*C . . . . . . . . . *
+*. . . . . . . . E . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . D . . . . . . . *
+**********************
+Jet respawns at (5,8) with 1 health and 27 shells
+Jet is thinking...
+  Jet sees Alpha at (0,2)
+  Jet sees Beta at (2,9)
+  Jet sees Star at (8,3)
+Jet sees no adjacent target to fire at.
+Jet moves toward Beta to (4,9)
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (1,2)
+
+Beta is thinking...
+  Beta sees no one.
+Beta moves to (3,8)
+
+Star is hidden and invulnerable this turn.
+  Star sees no one.
+Star moves to (9,3)
+
+--- Status after Turn 15 ---
+Kidd at (2,7) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (4,9) HP=1 shells=27 lives=1 | Kills: 4 Deaths: 1 K/D: 4.00 | Upgrades: HideBot(0) ThirtyShotBot TrackBot 
+Alpha at (1,2) HP=1 shells=8 lives=1 | Kills: 2 Deaths: 1 K/D: 2.00 | Upgrades: JumpBot(2) ScoutBot(0) 
+Beta at (3,8) HP=1 shells=10 lives=0 | Kills: 0 Deaths: 2 K/D: 0.00 | Upgrades: 
+Star at (9,3) HP=1 shells=7 lives=0 | Kills: 3 Deaths: 2 K/D: 1.50 | Upgrades: HideBot(2) CrossShooter ScoutBot(0) 
+
+----- Turn 16 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. C . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . D . . . . . . *
+*. . . . B . . . . . *
+**********************
+Jet is thinking...
+  Jet sees Alpha at (1,2)
+  Jet sees Beta at (3,8)
+Jet fires at Beta... HIT!
+  Beta is hit! (Health=0)
+  Beta is destroyed!
+Jet moves toward Alpha to (3,8)
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (0,2)
+
+Star is hidden and invulnerable this turn.
+  Star sees no one.
+Star moves to (9,4)
+
+--- Status after Turn 16 ---
+Kidd at (2,7) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (3,8) HP=1 shells=26 lives=1 | Kills: 5 Deaths: 1 K/D: 5.00 | Upgrades: HideBot(0) ThirtyShotBot TrackBot 
+Alpha at (0,2) HP=1 shells=8 lives=1 | Kills: 2 Deaths: 1 K/D: 2.00 | Upgrades: JumpBot(2) ScoutBot(0) 
+Beta at (3,8) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Star at (9,4) HP=1 shells=7 lives=0 | Kills: 3 Deaths: 2 K/D: 1.50 | Upgrades: HideBot(1) CrossShooter ScoutBot(0) 
+
+----- Turn 17 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*C . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . B . . . . . . *
+*. . . . . . . . . . *
+**********************
+Jet is thinking...
+  Jet sees Alpha at (0,2)
+Jet sees no adjacent target to fire at.
+Jet moves toward Alpha to (2,7)
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (1,2)
+
+Star is hidden and invulnerable this turn.
+  Star sees no one.
+Star moves to (9,3)
+
+--- Status after Turn 17 ---
+Kidd at (2,7) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (2,7) HP=1 shells=26 lives=1 | Kills: 5 Deaths: 1 K/D: 5.00 | Upgrades: HideBot(0) ThirtyShotBot TrackBot 
+Alpha at (1,2) HP=1 shells=8 lives=1 | Kills: 2 Deaths: 1 K/D: 2.00 | Upgrades: JumpBot(2) ScoutBot(0) 
+Beta at (3,8) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Star at (9,3) HP=1 shells=7 lives=0 | Kills: 3 Deaths: 2 K/D: 1.50 | Upgrades: HideBot(0) CrossShooter ScoutBot(0) 
+
+----- Turn 18 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. C . . . . . . . . *
+*. . . . . . . . . E *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . B . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Jet is thinking...
+  Jet sees Alpha at (1,2)
+  Jet sees Star at (9,3)
+Jet sees no adjacent target to fire at.
+Jet moves toward Alpha to (1,6)
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (0,2)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (8,2)
+
+--- Status after Turn 18 ---
+Kidd at (2,7) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (1,6) HP=1 shells=26 lives=1 | Kills: 5 Deaths: 1 K/D: 5.00 | Upgrades: HideBot(0) ThirtyShotBot TrackBot 
+Alpha at (0,2) HP=1 shells=8 lives=1 | Kills: 2 Deaths: 1 K/D: 2.00 | Upgrades: JumpBot(2) ScoutBot(0) 
+Beta at (3,8) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Star at (8,2) HP=1 shells=7 lives=0 | Kills: 3 Deaths: 2 K/D: 1.50 | Upgrades: HideBot(0) CrossShooter ScoutBot(0) 
+
+----- Turn 19 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*C . . . . . . . E . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. B . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Jet is thinking...
+  Jet sees Alpha at (0,2)
+  Jet sees Star at (8,2)
+Jet sees no adjacent target to fire at.
+Jet moves toward Alpha to (0,5)
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (1,1)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (7,2)
+
+--- Status after Turn 19 ---
+Kidd at (2,7) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (0,5) HP=1 shells=26 lives=1 | Kills: 5 Deaths: 1 K/D: 5.00 | Upgrades: HideBot(0) ThirtyShotBot TrackBot 
+Alpha at (1,1) HP=1 shells=8 lives=1 | Kills: 2 Deaths: 1 K/D: 2.00 | Upgrades: JumpBot(2) ScoutBot(0) 
+Beta at (3,8) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Star at (7,2) HP=1 shells=7 lives=0 | Kills: 3 Deaths: 2 K/D: 1.50 | Upgrades: HideBot(0) CrossShooter ScoutBot(0) 
+
+----- Turn 20 -----
+**********************
+*. . . . . . . . . . *
+*. C . . . . . . . . *
+*. . . . . . . E . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*B . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Jet is thinking...
+  Jet sees Alpha at (1,1)
+  Jet sees Star at (7,2)
+Jet sees no adjacent target to fire at.
+Jet moves toward Alpha to (1,4)
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (2,0)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (6,3)
+
+--- Status after Turn 20 ---
+Kidd at (2,7) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (1,4) HP=1 shells=26 lives=1 | Kills: 5 Deaths: 1 K/D: 5.00 | Upgrades: HideBot(0) ThirtyShotBot TrackBot 
+Alpha at (2,0) HP=1 shells=8 lives=1 | Kills: 2 Deaths: 1 K/D: 2.00 | Upgrades: JumpBot(2) ScoutBot(0) 
+Beta at (3,8) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Star at (6,3) HP=1 shells=7 lives=0 | Kills: 3 Deaths: 2 K/D: 1.50 | Upgrades: HideBot(0) CrossShooter ScoutBot(0) 
+
+----- Turn 21 -----
+**********************
+*. . C . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . E . . . *
+*. B . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Jet is thinking...
+  Jet sees Alpha at (2,0)
+  Jet sees Star at (6,3)
+Jet sees no adjacent target to fire at.
+Jet moves toward Alpha to (2,3)
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (2,1)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (7,3)
+
+--- Status after Turn 21 ---
+Kidd at (2,7) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (2,3) HP=1 shells=26 lives=1 | Kills: 5 Deaths: 1 K/D: 5.00 | Upgrades: HideBot(0) ThirtyShotBot TrackBot 
+Alpha at (2,1) HP=1 shells=8 lives=1 | Kills: 2 Deaths: 1 K/D: 2.00 | Upgrades: JumpBot(2) ScoutBot(0) 
+Beta at (3,8) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Star at (7,3) HP=1 shells=7 lives=0 | Kills: 3 Deaths: 2 K/D: 1.50 | Upgrades: HideBot(0) CrossShooter ScoutBot(0) 
+
+----- Turn 22 -----
+**********************
+*. . . . . . . . . . *
+*. . C . . . . . . . *
+*. . . . . . . . . . *
+*. . B . . . . E . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Jet is thinking...
+  Jet sees Alpha at (2,1)
+  Jet sees Star at (7,3)
+Jet sees no adjacent target to fire at.
+Jet moves toward Alpha to (2,2)
+Alpha is thinking...
+  Alpha sees Jet at (2,2)
+Alpha fires at Jet... HIT!
+  Jet is hit! (Health=0)
+  Jet is destroyed!
+Alpha gets an upgrade!
+Alpha upgraded to PlusShooter.
+Alpha moves to (2,0)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (8,4)
+
+--- Status after Turn 22 ---
+Kidd at (2,7) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (2,2) HP=0 shells=26 lives=0 | Kills: 5 Deaths: 2 K/D: 2.50 | Upgrades: HideBot(0) ThirtyShotBot TrackBot  [DEAD]
+Alpha at (2,0) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: JumpBot(2) PlusShooter ScoutBot(0) 
+Beta at (3,8) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Star at (8,4) HP=1 shells=7 lives=0 | Kills: 3 Deaths: 2 K/D: 1.50 | Upgrades: HideBot(0) CrossShooter ScoutBot(0) 
+
+----- Turn 23 -----
+**********************
+*. . C . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . E . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Jet respawns at (6,0) with 1 health and 26 shells
+Jet is thinking...
+  Jet sees Alpha at (2,0)
+  Jet sees Star at (8,4)
+Jet sees no adjacent target to fire at.
+Jet moves toward Alpha to (5,0)
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (1,1)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (8,5)
+
+--- Status after Turn 23 ---
+Kidd at (2,7) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (5,0) HP=1 shells=26 lives=0 | Kills: 5 Deaths: 2 K/D: 2.50 | Upgrades: HideBot(0) ThirtyShotBot TrackBot 
+Alpha at (1,1) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: JumpBot(2) PlusShooter ScoutBot(0) 
+Beta at (3,8) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Star at (8,5) HP=1 shells=7 lives=0 | Kills: 3 Deaths: 2 K/D: 1.50 | Upgrades: HideBot(0) CrossShooter ScoutBot(0) 
+
+----- Turn 24 -----
+**********************
+*. . . . . B . . . . *
+*. C . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . E . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Jet is thinking...
+  Jet sees Alpha at (1,1)
+  Jet sees Star at (8,5)
+Jet sees no adjacent target to fire at.
+Jet moves toward Alpha to (4,1)
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (2,2)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (7,6)
+
+--- Status after Turn 24 ---
+Kidd at (2,7) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (4,1) HP=1 shells=26 lives=0 | Kills: 5 Deaths: 2 K/D: 2.50 | Upgrades: HideBot(0) ThirtyShotBot TrackBot 
+Alpha at (2,2) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: JumpBot(2) PlusShooter ScoutBot(0) 
+Beta at (3,8) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Star at (7,6) HP=1 shells=7 lives=0 | Kills: 3 Deaths: 2 K/D: 1.50 | Upgrades: HideBot(0) CrossShooter ScoutBot(0) 
+
+----- Turn 25 -----
+**********************
+*. . . . . . . . . . *
+*. . . . B . . . . . *
+*. . C . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . E . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Jet is thinking...
+  Jet sees Alpha at (2,2)
+  Jet sees Star at (7,6)
+Jet sees no adjacent target to fire at.
+Jet moves toward Alpha to (3,2)
+Alpha is thinking...
+  Alpha sees Jet at (3,2)
+Alpha fires in + pattern!
+  Targeting Jet at (3,2)... HIT!
+  Jet is hit! (Health=0)
+  Jet is destroyed!
+Alpha moves to (3,3)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (7,5)
+
+--- Status after Turn 25 ---
+Kidd at (2,7) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (3,2) HP=0 shells=26 lives=0 | Kills: 5 Deaths: 3 K/D: 1.67 | Upgrades: HideBot(0) ThirtyShotBot TrackBot  [DEAD]
+Alpha at (3,3) HP=1 shells=6 lives=1 | Kills: 4 Deaths: 1 K/D: 4.00 | Upgrades: JumpBot(2) PlusShooter ScoutBot(0) 
+Beta at (3,8) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Star at (7,5) HP=1 shells=7 lives=0 | Kills: 3 Deaths: 2 K/D: 1.50 | Upgrades: HideBot(0) CrossShooter ScoutBot(0) 
+
+----- Turn 26 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . C . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . E . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (3,2)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (8,4)
+
+--- Status after Turn 26 ---
+Kidd at (2,7) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (3,2) HP=0 shells=26 lives=0 | Kills: 5 Deaths: 3 K/D: 1.67 | Upgrades: HideBot(0) ThirtyShotBot TrackBot  [DEAD]
+Alpha at (3,2) HP=1 shells=6 lives=1 | Kills: 4 Deaths: 1 K/D: 4.00 | Upgrades: JumpBot(2) PlusShooter ScoutBot(0) 
+Beta at (3,8) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Star at (8,4) HP=1 shells=7 lives=0 | Kills: 3 Deaths: 2 K/D: 1.50 | Upgrades: HideBot(0) CrossShooter ScoutBot(0) 
+
+----- Turn 27 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . C . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . E . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (3,1)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (8,3)
+
+--- Status after Turn 27 ---
+Kidd at (2,7) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (3,2) HP=0 shells=26 lives=0 | Kills: 5 Deaths: 3 K/D: 1.67 | Upgrades: HideBot(0) ThirtyShotBot TrackBot  [DEAD]
+Alpha at (3,1) HP=1 shells=6 lives=1 | Kills: 4 Deaths: 1 K/D: 4.00 | Upgrades: JumpBot(2) PlusShooter ScoutBot(0) 
+Beta at (3,8) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Star at (8,3) HP=1 shells=7 lives=0 | Kills: 3 Deaths: 2 K/D: 1.50 | Upgrades: HideBot(0) CrossShooter ScoutBot(0) 
+
+----- Turn 28 -----
+**********************
+*. . . . . . . . . . *
+*. . . C . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . E . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (3,2)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (7,4)
+
+--- Status after Turn 28 ---
+Kidd at (2,7) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (3,2) HP=0 shells=26 lives=0 | Kills: 5 Deaths: 3 K/D: 1.67 | Upgrades: HideBot(0) ThirtyShotBot TrackBot  [DEAD]
+Alpha at (3,2) HP=1 shells=6 lives=1 | Kills: 4 Deaths: 1 K/D: 4.00 | Upgrades: JumpBot(2) PlusShooter ScoutBot(0) 
+Beta at (3,8) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Star at (7,4) HP=1 shells=7 lives=0 | Kills: 3 Deaths: 2 K/D: 1.50 | Upgrades: HideBot(0) CrossShooter ScoutBot(0) 
+
+----- Turn 29 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . C . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . E . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (4,2)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (6,3)
+
+--- Status after Turn 29 ---
+Kidd at (2,7) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (3,2) HP=0 shells=26 lives=0 | Kills: 5 Deaths: 3 K/D: 1.67 | Upgrades: HideBot(0) ThirtyShotBot TrackBot  [DEAD]
+Alpha at (4,2) HP=1 shells=6 lives=1 | Kills: 4 Deaths: 1 K/D: 4.00 | Upgrades: JumpBot(2) PlusShooter ScoutBot(0) 
+Beta at (3,8) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Star at (6,3) HP=1 shells=7 lives=0 | Kills: 3 Deaths: 2 K/D: 1.50 | Upgrades: HideBot(0) CrossShooter ScoutBot(0) 
+
+----- Turn 30 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . C . . . . . *
+*. . . . . . E . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (5,3)
+
+Star is thinking...
+  Star sees Alpha at (5,3)
+Star fires in X pattern!
+  No valid targets in X pattern, falling back to regular fire.
+Star fires at Alpha... misses.
+Star moves to (7,2)
+
+--- Status after Turn 30 ---
+Kidd at (2,7) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (3,2) HP=0 shells=26 lives=0 | Kills: 5 Deaths: 3 K/D: 1.67 | Upgrades: HideBot(0) ThirtyShotBot TrackBot  [DEAD]
+Alpha at (5,3) HP=1 shells=6 lives=1 | Kills: 4 Deaths: 1 K/D: 4.00 | Upgrades: JumpBot(2) PlusShooter ScoutBot(0) 
+Beta at (3,8) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Star at (7,2) HP=1 shells=6 lives=0 | Kills: 3 Deaths: 2 K/D: 1.50 | Upgrades: HideBot(0) CrossShooter ScoutBot(0) 
+
+----- Turn 31 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . E . . *
+*. . . . . C . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (5,4)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (6,1)
+
+--- Status after Turn 31 ---
+Kidd at (2,7) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (3,2) HP=0 shells=26 lives=0 | Kills: 5 Deaths: 3 K/D: 1.67 | Upgrades: HideBot(0) ThirtyShotBot TrackBot  [DEAD]
+Alpha at (5,4) HP=1 shells=6 lives=1 | Kills: 4 Deaths: 1 K/D: 4.00 | Upgrades: JumpBot(2) PlusShooter ScoutBot(0) 
+Beta at (3,8) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Star at (6,1) HP=1 shells=6 lives=0 | Kills: 3 Deaths: 2 K/D: 1.50 | Upgrades: HideBot(0) CrossShooter ScoutBot(0) 
+
+----- Turn 32 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . E . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . C . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (6,4)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (7,2)
+
+--- Status after Turn 32 ---
+Kidd at (2,7) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (3,2) HP=0 shells=26 lives=0 | Kills: 5 Deaths: 3 K/D: 1.67 | Upgrades: HideBot(0) ThirtyShotBot TrackBot  [DEAD]
+Alpha at (6,4) HP=1 shells=6 lives=1 | Kills: 4 Deaths: 1 K/D: 4.00 | Upgrades: JumpBot(2) PlusShooter ScoutBot(0) 
+Beta at (3,8) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Star at (7,2) HP=1 shells=6 lives=0 | Kills: 3 Deaths: 2 K/D: 1.50 | Upgrades: HideBot(0) CrossShooter ScoutBot(0) 
+
+----- Turn 33 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . E . . *
+*. . . . . . . . . . *
+*. . . . . . C . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (5,3)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (6,2)
+
+--- Status after Turn 33 ---
+Kidd at (2,7) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (3,2) HP=0 shells=26 lives=0 | Kills: 5 Deaths: 3 K/D: 1.67 | Upgrades: HideBot(0) ThirtyShotBot TrackBot  [DEAD]
+Alpha at (5,3) HP=1 shells=6 lives=1 | Kills: 4 Deaths: 1 K/D: 4.00 | Upgrades: JumpBot(2) PlusShooter ScoutBot(0) 
+Beta at (3,8) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Star at (6,2) HP=1 shells=6 lives=0 | Kills: 3 Deaths: 2 K/D: 1.50 | Upgrades: HideBot(0) CrossShooter ScoutBot(0) 
+
+----- Turn 34 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . E . . . *
+*. . . . . C . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees Star at (6,2)
+Alpha fires in + pattern!
+  No valid targets in + pattern, falling back to regular fire.
+Alpha fires at Star... misses.
+Alpha jumps to (7,2) near Star
+Star is thinking...
+  Star sees Alpha at (7,2)
+Star fires in X pattern!
+  No valid targets in X pattern, falling back to regular fire.
+Star fires at Alpha... HIT!
+  Alpha is hit! (Health=0)
+  Alpha is destroyed!
+Star moves to (5,2)
+
+--- Status after Turn 34 ---
+Kidd at (2,7) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (3,2) HP=0 shells=26 lives=0 | Kills: 5 Deaths: 3 K/D: 1.67 | Upgrades: HideBot(0) ThirtyShotBot TrackBot  [DEAD]
+Alpha at (7,2) HP=0 shells=5 lives=0 | Kills: 4 Deaths: 2 K/D: 2.00 | Upgrades: JumpBot(1) PlusShooter ScoutBot(0)  [DEAD]
+Beta at (3,8) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Star at (5,2) HP=1 shells=5 lives=0 | Kills: 4 Deaths: 2 K/D: 2.00 | Upgrades: HideBot(0) CrossShooter ScoutBot(0) 
+
+----- Turn 35 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . E . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha respawns at (2,8) with 1 health and 5 shells
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (1,7)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (5,3)
+
+--- Status after Turn 35 ---
+Kidd at (2,7) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (3,2) HP=0 shells=26 lives=0 | Kills: 5 Deaths: 3 K/D: 1.67 | Upgrades: HideBot(0) ThirtyShotBot TrackBot  [DEAD]
+Alpha at (1,7) HP=1 shells=5 lives=0 | Kills: 4 Deaths: 2 K/D: 2.00 | Upgrades: JumpBot(1) PlusShooter ScoutBot(0) 
+Beta at (3,8) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Star at (5,3) HP=1 shells=5 lives=0 | Kills: 4 Deaths: 2 K/D: 2.00 | Upgrades: HideBot(0) CrossShooter ScoutBot(0) 
+
+----- Turn 36 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . E . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. C . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (0,6)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (4,3)
+
+--- Status after Turn 36 ---
+Kidd at (2,7) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (3,2) HP=0 shells=26 lives=0 | Kills: 5 Deaths: 3 K/D: 1.67 | Upgrades: HideBot(0) ThirtyShotBot TrackBot  [DEAD]
+Alpha at (0,6) HP=1 shells=5 lives=0 | Kills: 4 Deaths: 2 K/D: 2.00 | Upgrades: JumpBot(1) PlusShooter ScoutBot(0) 
+Beta at (3,8) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Star at (4,3) HP=1 shells=5 lives=0 | Kills: 4 Deaths: 2 K/D: 2.00 | Upgrades: HideBot(0) CrossShooter ScoutBot(0) 
+
+----- Turn 37 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . E . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*C . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (1,5)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (3,4)
+
+--- Status after Turn 37 ---
+Kidd at (2,7) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (3,2) HP=0 shells=26 lives=0 | Kills: 5 Deaths: 3 K/D: 1.67 | Upgrades: HideBot(0) ThirtyShotBot TrackBot  [DEAD]
+Alpha at (1,5) HP=1 shells=5 lives=0 | Kills: 4 Deaths: 2 K/D: 2.00 | Upgrades: JumpBot(1) PlusShooter ScoutBot(0) 
+Beta at (3,8) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Star at (3,4) HP=1 shells=5 lives=0 | Kills: 4 Deaths: 2 K/D: 2.00 | Upgrades: HideBot(0) CrossShooter ScoutBot(0) 
+
+----- Turn 38 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . E . . . . . . *
+*. C . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (2,4)
+
+Star is thinking...
+  Star sees Alpha at (2,4)
+Star fires in X pattern!
+  No valid targets in X pattern, falling back to regular fire.
+Star fires at Alpha... HIT!
+  Alpha is hit! (Health=0)
+  Alpha is destroyed!
+Star moves to (4,4)
+
+--- Status after Turn 38 ---
+Kidd at (2,7) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (3,2) HP=0 shells=26 lives=0 | Kills: 5 Deaths: 3 K/D: 1.67 | Upgrades: HideBot(0) ThirtyShotBot TrackBot  [DEAD]
+Alpha at (2,4) HP=0 shells=5 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: JumpBot(1) PlusShooter ScoutBot(0)  [DEAD]
+Beta at (3,8) HP=0 shells=10 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Star at (4,4) HP=1 shells=4 lives=0 | Kills: 5 Deaths: 2 K/D: 2.50 | Upgrades: HideBot(0) CrossShooter ScoutBot(0) 
+

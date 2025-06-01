@@ -1,0 +1,2724 @@
+----- Turn 1 -----
+**********************
+*. . . . C . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . D *
+*. . . . . . . . . . *
+*. . . A . . . . . . *
+*. B . . . . . . . . *
+*. . . . . . . . E . *
+*. . . . . . . . . . *
+**********************
+Kidd is thinking...
+  Kidd sees no one.
+Kidd moves to (4,5)
+
+Jet is thinking...
+  Jet sees no one.
+Jet moves to (2,6)
+
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (3,1)
+
+Beta is thinking...
+  Beta sees no one.
+Beta moves to (8,3)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (7,8)
+
+--- Status after Turn 1 ---
+Kidd at (4,5) HP=1 shells=10 lives=2 | Kills: 0 Deaths: 0 K/D: 0.00 | Upgrades: 
+Jet at (2,6) HP=1 shells=10 lives=2 | Kills: 0 Deaths: 0 K/D: 0.00 | Upgrades: 
+Alpha at (3,1) HP=1 shells=10 lives=2 | Kills: 0 Deaths: 0 K/D: 0.00 | Upgrades: 
+Beta at (8,3) HP=1 shells=10 lives=2 | Kills: 0 Deaths: 0 K/D: 0.00 | Upgrades: 
+Star at (7,8) HP=1 shells=10 lives=2 | Kills: 0 Deaths: 0 K/D: 0.00 | Upgrades: 
+
+----- Turn 2 -----
+**********************
+*. . . . . . . . . . *
+*. . . C . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . D . *
+*. . . . . . . . . . *
+*. . . . A . . . . . *
+*. . B . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . E . . *
+*. . . . . . . . . . *
+**********************
+Kidd is thinking...
+  Kidd sees no one.
+Kidd moves to (3,6)
+
+Jet is thinking...
+  Jet sees Kidd at (3,6)
+Jet fires at Kidd... HIT!
+  Kidd is hit! (Health=0)
+  Kidd is destroyed!
+Jet gets an upgrade!
+Jet upgraded to CrossShooter.
+Jet moves to (3,5)
+
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (4,1)
+
+Beta is thinking...
+  Beta sees no one.
+Beta moves to (9,4)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (6,8)
+
+--- Status after Turn 2 ---
+Kidd at (3,6) HP=0 shells=10 lives=1 | Kills: 0 Deaths: 1 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (3,5) HP=1 shells=9 lives=2 | Kills: 1 Deaths: 0 K/D: 1.00 | Upgrades: CrossShooter 
+Alpha at (4,1) HP=1 shells=10 lives=2 | Kills: 0 Deaths: 0 K/D: 0.00 | Upgrades: 
+Beta at (9,4) HP=1 shells=10 lives=2 | Kills: 0 Deaths: 0 K/D: 0.00 | Upgrades: 
+Star at (6,8) HP=1 shells=10 lives=2 | Kills: 0 Deaths: 0 K/D: 0.00 | Upgrades: 
+
+----- Turn 3 -----
+**********************
+*. . . . . . . . . . *
+*. . . . C . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . D *
+*. . . B . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . E . . . *
+*. . . . . . . . . . *
+**********************
+Kidd respawns at (4,4) with 1 health and 10 shells
+Kidd is thinking...
+  Kidd sees Jet at (3,5)
+Kidd fires at Jet... misses.
+Kidd moves to (5,4)
+
+Jet is thinking...
+  Jet sees no one.
+Jet moves to (4,4)
+
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (4,2)
+
+Beta is thinking...
+  Beta sees no one.
+Beta moves to (8,5)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (6,9)
+
+--- Status after Turn 3 ---
+Kidd at (5,4) HP=1 shells=9 lives=1 | Kills: 0 Deaths: 1 K/D: 0.00 | Upgrades: 
+Jet at (4,4) HP=1 shells=9 lives=2 | Kills: 1 Deaths: 0 K/D: 1.00 | Upgrades: CrossShooter 
+Alpha at (4,2) HP=1 shells=10 lives=2 | Kills: 0 Deaths: 0 K/D: 0.00 | Upgrades: 
+Beta at (8,5) HP=1 shells=10 lives=2 | Kills: 0 Deaths: 0 K/D: 0.00 | Upgrades: 
+Star at (6,9) HP=1 shells=10 lives=2 | Kills: 0 Deaths: 0 K/D: 0.00 | Upgrades: 
+
+----- Turn 4 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . C . . . . . *
+*. . . . . . . . . . *
+*. . . . B A . . . . *
+*. . . . . . . . D . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . E . . . *
+**********************
+Kidd is thinking...
+  Kidd sees Jet at (4,4)
+Kidd fires at Jet... misses.
+Kidd moves to (5,3)
+
+Jet is thinking...
+  Jet sees Kidd at (5,3)
+Jet fires in X pattern!
+  Targeting Kidd at (5,3)... HIT!
+  Kidd is hit! (Health=0)
+  Kidd is destroyed!
+Jet moves to (3,3)
+
+Alpha is thinking...
+  Alpha sees Jet at (3,3)
+Alpha fires at Jet... HIT!
+  Jet is hit! (Health=0)
+  Jet is destroyed!
+Alpha gets an upgrade!
+Alpha upgraded to PlusShooter.
+Alpha moves to (3,2)
+
+Beta is thinking...
+  Beta sees no one.
+Beta moves to (9,6)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (6,8)
+
+--- Status after Turn 4 ---
+Kidd at (5,3) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 2 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (3,3) HP=0 shells=8 lives=1 | Kills: 2 Deaths: 1 K/D: 2.00 | Upgrades: CrossShooter  [DEAD]
+Alpha at (3,2) HP=1 shells=9 lives=2 | Kills: 1 Deaths: 0 K/D: 1.00 | Upgrades: PlusShooter 
+Beta at (9,6) HP=1 shells=10 lives=2 | Kills: 0 Deaths: 0 K/D: 0.00 | Upgrades: 
+Star at (6,8) HP=1 shells=10 lives=2 | Kills: 0 Deaths: 0 K/D: 0.00 | Upgrades: 
+
+----- Turn 5 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . C . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . D *
+*. . . . . . . . . . *
+*. . . . . . E . . . *
+*. . . . . . . . . . *
+**********************
+Kidd respawns at (1,1) with 1 health and 8 shells
+Kidd is thinking...
+  Kidd sees no one.
+Kidd moves to (2,1)
+
+Alpha is thinking...
+  Alpha sees Kidd at (2,1)
+Alpha fires in + pattern!
+  No valid targets in + pattern, falling back to regular fire.
+Alpha fires at Kidd... HIT!
+  Kidd is hit! (Health=0)
+  Kidd is destroyed!
+Alpha gets an upgrade!
+Alpha upgraded to ScoutBot.
+Alpha moves to (3,1)
+
+Beta is thinking...
+  Beta sees no one.
+Beta moves to (8,7)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (7,7)
+
+--- Status after Turn 5 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (3,3) HP=0 shells=8 lives=1 | Kills: 2 Deaths: 1 K/D: 2.00 | Upgrades: CrossShooter  [DEAD]
+Alpha at (3,1) HP=1 shells=8 lives=2 | Kills: 2 Deaths: 0 K/D: 2.00 | Upgrades: PlusShooter ScoutBot(3) 
+Beta at (8,7) HP=1 shells=10 lives=2 | Kills: 0 Deaths: 0 K/D: 0.00 | Upgrades: 
+Star at (7,7) HP=1 shells=10 lives=2 | Kills: 0 Deaths: 0 K/D: 0.00 | Upgrades: 
+
+----- Turn 6 -----
+**********************
+*. . . . . . . . . . *
+*. . . C . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . E D . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Jet respawns at (9,9) with 1 health and 8 shells
+Jet is thinking...
+  Jet sees no one.
+Jet moves to (8,8)
+
+Alpha is thinking...
+Alpha uses ScoutBot scan (3 left):
+  Alpha sees Jet at (8,8)
+  Alpha sees Beta at (8,7)
+  Alpha sees Star at (7,7)
+Alpha fires in + pattern!
+  No valid targets in + pattern, falling back to regular fire.
+Alpha sees no adjacent target to fire at.
+Alpha moves toward Star to (4,2)
+Beta is thinking...
+  Beta sees Star at (7,7)
+  Beta sees Jet at (8,8)
+Beta fires at Star... HIT!
+  Star is hit! (Health=0)
+  Star is destroyed!
+Beta gets an upgrade!
+Beta upgraded to CrossShooter.
+Beta moves to (7,7)
+
+--- Status after Turn 6 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (8,8) HP=1 shells=8 lives=1 | Kills: 2 Deaths: 1 K/D: 2.00 | Upgrades: CrossShooter 
+Alpha at (4,2) HP=1 shells=8 lives=2 | Kills: 2 Deaths: 0 K/D: 2.00 | Upgrades: PlusShooter ScoutBot(2) 
+Beta at (7,7) HP=1 shells=9 lives=2 | Kills: 1 Deaths: 0 K/D: 1.00 | Upgrades: CrossShooter 
+Star at (7,7) HP=0 shells=10 lives=1 | Kills: 0 Deaths: 1 K/D: 0.00 | Upgrades:  [DEAD]
+
+----- Turn 7 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . C . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . D . . *
+*. . . . . . . . B . *
+*. . . . . . . . . . *
+**********************
+Star respawns at (8,7) with 1 health and 10 shells
+Jet is thinking...
+  Jet sees Beta at (7,7)
+  Jet sees Star at (8,7)
+Jet fires in X pattern!
+  Targeting Beta at (7,7)... HIT!
+  Beta is hit! (Health=0)
+  Beta is destroyed!
+Jet moves to (9,8)
+
+Alpha is thinking...
+Alpha uses ScoutBot scan (2 left):
+  Alpha sees Jet at (9,8)
+  Alpha sees Star at (8,7)
+Alpha fires in + pattern!
+  No valid targets in + pattern, falling back to regular fire.
+Alpha sees no adjacent target to fire at.
+Alpha moves toward Star to (5,3)
+Star is thinking...
+  Star sees Jet at (9,8)
+Star fires at Jet... misses.
+Star moves to (7,8)
+
+--- Status after Turn 7 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (9,8) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: CrossShooter 
+Alpha at (5,3) HP=1 shells=8 lives=2 | Kills: 2 Deaths: 0 K/D: 2.00 | Upgrades: PlusShooter ScoutBot(1) 
+Beta at (7,7) HP=0 shells=9 lives=1 | Kills: 1 Deaths: 1 K/D: 1.00 | Upgrades: CrossShooter  [DEAD]
+Star at (7,8) HP=1 shells=9 lives=1 | Kills: 0 Deaths: 1 K/D: 0.00 | Upgrades: 
+
+----- Turn 8 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . C . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . E . B *
+*. . . . . . . . . . *
+**********************
+Beta respawns at (3,9) with 1 health and 9 shells
+Jet is thinking...
+  Jet sees no one.
+Jet moves to (8,9)
+
+Alpha is thinking...
+Alpha uses ScoutBot scan (1 left):
+  Alpha sees Jet at (8,9)
+  Alpha sees Beta at (3,9)
+  Alpha sees Star at (7,8)
+Alpha fires in + pattern!
+  No valid targets in + pattern, falling back to regular fire.
+Alpha sees no adjacent target to fire at.
+Alpha moves toward Star to (6,4)
+Beta is thinking...
+  Beta sees no one.
+Beta moves to (2,8)
+
+Star is thinking...
+  Star sees Jet at (8,9)
+Star fires at Jet... HIT!
+  Jet is hit! (Health=0)
+  Jet is destroyed!
+Star gets an upgrade!
+Star upgraded to TrackBot.
+Star moves to (6,9)
+
+--- Status after Turn 8 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (8,9) HP=0 shells=7 lives=0 | Kills: 3 Deaths: 2 K/D: 1.50 | Upgrades: CrossShooter  [DEAD]
+Alpha at (6,4) HP=1 shells=8 lives=2 | Kills: 2 Deaths: 0 K/D: 2.00 | Upgrades: PlusShooter ScoutBot(0) 
+Beta at (2,8) HP=1 shells=9 lives=1 | Kills: 1 Deaths: 1 K/D: 1.00 | Upgrades: CrossShooter 
+Star at (6,9) HP=1 shells=8 lives=1 | Kills: 1 Deaths: 1 K/D: 1.00 | Upgrades: TrackBot 
+
+----- Turn 9 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . C . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . D . . . . . . . *
+*. . . . . . E . . . *
+**********************
+Jet respawns at (5,4) with 1 health and 7 shells
+Jet is thinking...
+  Jet sees Alpha at (6,4)
+Jet fires in X pattern!
+  No valid targets in X pattern, falling back to regular fire.
+Jet fires at Alpha... HIT!
+  Alpha is hit! (Health=0)
+  Alpha is destroyed!
+Jet gets an upgrade!
+Jet upgraded to HideBot.
+Jet moves to (6,4)
+
+Beta is thinking...
+  Beta sees no one.
+Beta moves to (2,9)
+
+Star is thinking...
+Star tracked 2 robots.
+  Star sees Beta at (2,9)
+  Star sees Jet at (6,4)
+Star sees no adjacent target to fire at.
+Star moves toward Beta to (5,9)
+--- Status after Turn 9 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (6,4) HP=1 shells=6 lives=0 | Kills: 4 Deaths: 2 K/D: 2.00 | Upgrades: HideBot(3) CrossShooter 
+Alpha at (6,4) HP=0 shells=8 lives=1 | Kills: 2 Deaths: 1 K/D: 2.00 | Upgrades: PlusShooter ScoutBot(0)  [DEAD]
+Beta at (2,9) HP=1 shells=9 lives=1 | Kills: 1 Deaths: 1 K/D: 1.00 | Upgrades: CrossShooter 
+Star at (5,9) HP=1 shells=8 lives=1 | Kills: 1 Deaths: 1 K/D: 1.00 | Upgrades: TrackBot 
+
+----- Turn 10 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . B . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . D . . E . . . . *
+**********************
+Alpha respawns at (1,8) with 1 health and 8 shells
+Jet is hidden and invulnerable this turn.
+  Jet sees no one.
+Jet moves to (7,5)
+
+Alpha is thinking...
+  Alpha sees Beta at (2,9)
+Alpha fires in + pattern!
+  No valid targets in + pattern, falling back to regular fire.
+Alpha fires at Beta... HIT!
+  Beta is hit! (Health=0)
+  Beta is destroyed!
+Alpha gets an upgrade!
+Alpha upgraded to HideBot.
+Alpha moves to (2,8)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (5,8)
+
+--- Status after Turn 10 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,5) HP=1 shells=6 lives=0 | Kills: 4 Deaths: 2 K/D: 2.00 | Upgrades: HideBot(2) CrossShooter 
+Alpha at (2,8) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(3) PlusShooter ScoutBot(0) 
+Beta at (2,9) HP=0 shells=9 lives=0 | Kills: 1 Deaths: 2 K/D: 0.50 | Upgrades: CrossShooter  [DEAD]
+Star at (5,8) HP=1 shells=8 lives=1 | Kills: 1 Deaths: 1 K/D: 1.00 | Upgrades: TrackBot 
+
+----- Turn 11 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . C . . E . . . . *
+*. . . . . . . . . . *
+**********************
+Beta respawns at (9,2) with 1 health and 9 shells
+Jet is hidden and invulnerable this turn.
+  Jet sees no one.
+Jet moves to (6,5)
+
+Alpha is hidden and invulnerable this turn.
+  Alpha sees no one.
+Alpha moves to (1,8)
+
+Beta is thinking...
+  Beta sees no one.
+Beta moves to (9,1)
+
+Star is thinking...
+  Star sees Beta at (9,1)
+Star sees no adjacent target to fire at.
+Star moves toward Beta to (6,7)
+--- Status after Turn 11 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (6,5) HP=1 shells=6 lives=0 | Kills: 4 Deaths: 2 K/D: 2.00 | Upgrades: HideBot(1) CrossShooter 
+Alpha at (1,8) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(2) PlusShooter ScoutBot(0) 
+Beta at (9,1) HP=1 shells=9 lives=0 | Kills: 1 Deaths: 2 K/D: 0.50 | Upgrades: CrossShooter 
+Star at (6,7) HP=1 shells=8 lives=1 | Kills: 1 Deaths: 1 K/D: 1.00 | Upgrades: TrackBot 
+
+----- Turn 12 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . D *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . E . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Jet is hidden and invulnerable this turn.
+  Jet sees no one.
+Jet moves to (7,6)
+
+Alpha is hidden and invulnerable this turn.
+  Alpha sees no one.
+Alpha moves to (0,8)
+
+Beta is thinking...
+  Beta sees no one.
+Beta moves to (9,0)
+
+Star is thinking...
+  Star sees Beta at (9,0)
+  Star sees Jet at (7,6)
+Star fires at Jet... HIT!
+  Jet is hit! (Health=0)
+  Jet is destroyed!
+Star gets an upgrade!
+Star upgraded to DoubleRowShooter.
+Star moves toward Beta to (7,6)
+--- Status after Turn 12 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (0,8) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(1) PlusShooter ScoutBot(0) 
+Beta at (9,0) HP=1 shells=9 lives=0 | Kills: 1 Deaths: 2 K/D: 0.50 | Upgrades: CrossShooter 
+Star at (7,6) HP=1 shells=7 lives=1 | Kills: 2 Deaths: 1 K/D: 2.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 13 -----
+**********************
+*. . . . . . . . . D *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . E . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is hidden and invulnerable this turn.
+  Alpha sees no one.
+Alpha moves to (0,9)
+
+Beta is thinking...
+  Beta sees no one.
+Beta moves to (8,0)
+
+Star is thinking...
+  Star sees Beta at (8,0)
+Star fires across two rows!
+  No valid targets in row pattern, falling back to regular fire.
+Star sees no adjacent target to fire at.
+Star moves toward Beta to (8,5)
+--- Status after Turn 13 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (0,9) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (8,0) HP=1 shells=9 lives=0 | Kills: 1 Deaths: 2 K/D: 0.50 | Upgrades: CrossShooter 
+Star at (8,5) HP=1 shells=7 lives=1 | Kills: 2 Deaths: 1 K/D: 2.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 14 -----
+**********************
+*. . . . . . . . D . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . E . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*C . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (1,8)
+
+Beta is thinking...
+  Beta sees no one.
+Beta moves to (9,0)
+
+Star is thinking...
+  Star sees Beta at (9,0)
+Star fires across two rows!
+  No valid targets in row pattern, falling back to regular fire.
+Star sees no adjacent target to fire at.
+Star moves toward Beta to (9,4)
+--- Status after Turn 14 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (1,8) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (9,0) HP=1 shells=9 lives=0 | Kills: 1 Deaths: 2 K/D: 0.50 | Upgrades: CrossShooter 
+Star at (9,4) HP=1 shells=7 lives=1 | Kills: 2 Deaths: 1 K/D: 2.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 15 -----
+**********************
+*. . . . . . . . . D *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . E *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. C . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (2,8)
+
+Beta is thinking...
+  Beta sees no one.
+Beta moves to (8,1)
+
+Star is thinking...
+  Star sees Beta at (8,1)
+Star fires across two rows!
+  No valid targets in row pattern, falling back to regular fire.
+Star sees no adjacent target to fire at.
+Star moves toward Beta to (8,3)
+--- Status after Turn 15 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (2,8) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (8,1) HP=1 shells=9 lives=0 | Kills: 1 Deaths: 2 K/D: 0.50 | Upgrades: CrossShooter 
+Star at (8,3) HP=1 shells=7 lives=1 | Kills: 2 Deaths: 1 K/D: 2.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 16 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . D . *
+*. . . . . . . . . . *
+*. . . . . . . . E . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . C . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (3,8)
+
+Beta is thinking...
+  Beta sees no one.
+Beta moves to (8,0)
+
+Star is thinking...
+  Star sees Beta at (8,0)
+Star fires across two rows!
+  No valid targets in row pattern, falling back to regular fire.
+Star sees no adjacent target to fire at.
+Star moves toward Beta to (8,2)
+--- Status after Turn 16 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (3,8) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (8,0) HP=1 shells=9 lives=0 | Kills: 1 Deaths: 2 K/D: 0.50 | Upgrades: CrossShooter 
+Star at (8,2) HP=1 shells=7 lives=1 | Kills: 2 Deaths: 1 K/D: 2.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 17 -----
+**********************
+*. . . . . . . . D . *
+*. . . . . . . . . . *
+*. . . . . . . . E . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . C . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (3,9)
+
+Beta is thinking...
+  Beta sees no one.
+Beta moves to (7,0)
+
+Star is thinking...
+  Star sees Beta at (7,0)
+Star fires across two rows!
+  No valid targets in row pattern, falling back to regular fire.
+Star sees no adjacent target to fire at.
+Star moves toward Beta to (7,1)
+--- Status after Turn 17 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (3,9) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (7,0) HP=1 shells=9 lives=0 | Kills: 1 Deaths: 2 K/D: 0.50 | Upgrades: CrossShooter 
+Star at (7,1) HP=1 shells=7 lives=1 | Kills: 2 Deaths: 1 K/D: 2.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 18 -----
+**********************
+*. . . . . . . D . . *
+*. . . . . . . E . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . C . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (4,8)
+
+Beta is thinking...
+  Beta sees Star at (7,1)
+Beta fires in X pattern!
+  No valid targets in X pattern, falling back to regular fire.
+Beta fires at Star... misses.
+Beta moves to (6,0)
+
+Star is thinking...
+  Star sees Beta at (6,0)
+Star fires across two rows!
+  Targeting Beta at (6,0)... HIT!
+  Beta is hit! (Health=0)
+  Beta is destroyed!
+Star moves to (8,0)
+
+--- Status after Turn 18 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (4,8) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (8,0) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 19 -----
+**********************
+*. . . . . . . . E . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . C . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (4,9)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (7,1)
+
+--- Status after Turn 19 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (4,9) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (7,1) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 20 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . E . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . C . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (5,9)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (6,2)
+
+--- Status after Turn 20 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (5,9) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (6,2) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 21 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . E . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . C . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (4,8)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (7,3)
+
+--- Status after Turn 21 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (4,8) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (7,3) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 22 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . E . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . C . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (5,8)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (7,4)
+
+--- Status after Turn 22 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (5,8) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (7,4) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 23 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . E . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . C . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (6,8)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (8,3)
+
+--- Status after Turn 23 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (6,8) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (8,3) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 24 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . E . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . C . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (6,7)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (7,4)
+
+--- Status after Turn 24 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (6,7) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (7,4) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 25 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . E . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . C . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (7,7)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (6,3)
+
+--- Status after Turn 25 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (7,7) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (6,3) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 26 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . E . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . C . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (8,8)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (5,3)
+
+--- Status after Turn 26 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (8,8) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (5,3) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 27 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . E . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . C . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (9,7)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (5,4)
+
+--- Status after Turn 27 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (9,7) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (5,4) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 28 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . E . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . C *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (8,8)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (6,3)
+
+--- Status after Turn 28 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (8,8) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (6,3) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 29 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . E . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . C . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (7,7)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (7,2)
+
+--- Status after Turn 29 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (7,7) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (7,2) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 30 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . E . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . C . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (8,7)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (8,1)
+
+--- Status after Turn 30 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (8,7) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (8,1) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 31 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . E . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . C . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (7,6)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (8,0)
+
+--- Status after Turn 31 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (7,6) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (8,0) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 32 -----
+**********************
+*. . . . . . . . E . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . C . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (8,7)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (9,1)
+
+--- Status after Turn 32 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (8,7) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (9,1) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 33 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . E *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . C . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (8,8)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (8,2)
+
+--- Status after Turn 33 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (8,8) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (8,2) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 34 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . E . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . C . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (7,9)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (7,2)
+
+--- Status after Turn 34 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (7,9) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (7,2) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 35 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . E . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . C . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (6,9)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (7,3)
+
+--- Status after Turn 35 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (6,9) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (7,3) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 36 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . E . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . C . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (7,8)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (6,4)
+
+--- Status after Turn 36 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (7,8) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (6,4) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 37 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . E . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . C . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (7,9)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (5,4)
+
+--- Status after Turn 37 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (7,9) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (5,4) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 38 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . E . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . C . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (8,8)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (6,5)
+
+--- Status after Turn 38 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (8,8) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (6,5) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 39 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . E . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . C . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (9,9)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (5,6)
+
+--- Status after Turn 39 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (9,9) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (5,6) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 40 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . E . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . C *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (9,8)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (4,5)
+
+--- Status after Turn 40 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (9,8) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (4,5) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 41 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . E . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . C *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (8,9)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (3,5)
+
+--- Status after Turn 41 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (8,9) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (3,5) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 42 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . E . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . C . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (9,9)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (4,5)
+
+--- Status after Turn 42 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (9,9) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (4,5) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 43 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . E . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . C *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (8,9)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (5,4)
+
+--- Status after Turn 43 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (8,9) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (5,4) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 44 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . E . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . C . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (9,9)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (6,5)
+
+--- Status after Turn 44 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (9,9) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (6,5) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 45 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . E . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . C *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (9,8)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (7,4)
+
+--- Status after Turn 45 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (9,8) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (7,4) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 46 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . E . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . C *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (8,8)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (7,3)
+
+--- Status after Turn 46 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (8,8) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (7,3) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 47 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . E . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . C . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (7,7)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (6,4)
+
+--- Status after Turn 47 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (7,7) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (6,4) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 48 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . E . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . C . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (8,8)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (6,5)
+
+--- Status after Turn 48 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (8,8) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (6,5) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 49 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . E . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . C . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (9,8)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (6,6)
+
+--- Status after Turn 49 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (9,8) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (6,6) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 50 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . E . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . C *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (9,7)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (6,5)
+
+--- Status after Turn 50 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (9,7) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (6,5) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 51 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . E . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . C *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (8,7)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (5,4)
+
+--- Status after Turn 51 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (8,7) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (5,4) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 52 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . E . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . C . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (7,7)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (4,3)
+
+--- Status after Turn 52 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (7,7) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (4,3) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 53 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . E . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . C . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (6,7)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (3,3)
+
+--- Status after Turn 53 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (6,7) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (3,3) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 54 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . E . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . C . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (5,7)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (2,3)
+
+--- Status after Turn 54 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (5,7) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (2,3) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 55 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . E . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . C . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (4,6)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (3,2)
+
+--- Status after Turn 55 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (4,6) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (3,2) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 56 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . E . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . C . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (5,5)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (2,1)
+
+--- Status after Turn 56 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (5,5) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (2,1) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 57 -----
+**********************
+*. . . . . . . . . . *
+*. . E . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . C . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (5,6)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (1,1)
+
+--- Status after Turn 57 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (5,6) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (1,1) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 58 -----
+**********************
+*. . . . . . . . . . *
+*. E . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . C . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (5,7)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (2,1)
+
+--- Status after Turn 58 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (5,7) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (2,1) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 59 -----
+**********************
+*. . . . . . . . . . *
+*. . E . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . C . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (6,7)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (3,2)
+
+--- Status after Turn 59 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (6,7) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (3,2) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 60 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . E . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . C . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (6,8)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (3,3)
+
+--- Status after Turn 60 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (6,8) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (3,3) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 61 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . E . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . C . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (6,9)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (4,3)
+
+--- Status after Turn 61 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (6,9) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (4,3) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 62 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . E . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . C . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (5,8)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (4,4)
+
+--- Status after Turn 62 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (5,8) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (4,4) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 63 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . E . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . C . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (5,9)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (4,3)
+
+--- Status after Turn 63 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (5,9) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (4,3) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 64 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . E . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . C . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (5,8)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (4,2)
+
+--- Status after Turn 64 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (5,8) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (4,2) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 65 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . E . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . C . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (4,9)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (5,3)
+
+--- Status after Turn 65 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (4,9) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (5,3) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 66 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . E . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . C . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (5,8)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (4,4)
+
+--- Status after Turn 66 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (5,8) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (4,4) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 67 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . E . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . C . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (6,8)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (3,4)
+
+--- Status after Turn 67 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (6,8) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (3,4) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 68 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . E . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . C . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (5,9)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (4,3)
+
+--- Status after Turn 68 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (5,9) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (4,3) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 69 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . E . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . C . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (4,9)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (5,3)
+
+--- Status after Turn 69 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (4,9) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (5,3) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 70 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . E . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . C . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (3,8)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (5,4)
+
+--- Status after Turn 70 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (3,8) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (5,4) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 71 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . E . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . C . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (2,9)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (6,4)
+
+--- Status after Turn 71 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (2,9) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (6,4) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 72 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . E . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . C . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (2,8)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (5,3)
+
+--- Status after Turn 72 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (2,8) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (5,3) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 73 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . E . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . C . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (2,9)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (4,3)
+
+--- Status after Turn 73 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (2,9) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (4,3) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 74 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . E . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . C . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (1,8)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (3,2)
+
+--- Status after Turn 74 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (1,8) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (3,2) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 75 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . E . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. C . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (0,9)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (2,2)
+
+--- Status after Turn 75 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (0,9) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (2,2) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 76 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . E . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*C . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (0,8)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (2,3)
+
+--- Status after Turn 76 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (0,8) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (2,3) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 77 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . E . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*C . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (1,7)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (1,3)
+
+--- Status after Turn 77 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (1,7) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (1,3) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 78 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. E . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. C . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (0,6)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (0,3)
+
+--- Status after Turn 78 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (0,6) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (0,3) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 79 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*E . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*C . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (1,5)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (1,4)
+
+--- Status after Turn 79 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (1,5) HP=1 shells=7 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (1,4) HP=1 shells=6 lives=1 | Kills: 3 Deaths: 1 K/D: 3.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 80 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. E . . . . . . . . *
+*. C . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees Star at (1,4)
+Alpha fires in + pattern!
+  Targeting Star at (1,4)... HIT!
+  Star is hit! (Health=0)
+  Star is destroyed!
+Alpha moves to (2,6)
+
+--- Status after Turn 80 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (2,6) HP=1 shells=6 lives=1 | Kills: 4 Deaths: 1 K/D: 4.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (1,4) HP=0 shells=6 lives=0 | Kills: 3 Deaths: 2 K/D: 1.50 | Upgrades: DoubleRowShooter TrackBot  [DEAD]
+
+----- Turn 81 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . C . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Star respawns at (7,4) with 1 health and 6 shells
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (3,5)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (8,5)
+
+--- Status after Turn 81 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (3,5) HP=1 shells=6 lives=1 | Kills: 4 Deaths: 1 K/D: 4.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (8,5) HP=1 shells=6 lives=0 | Kills: 3 Deaths: 2 K/D: 1.50 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 82 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . C . . . . E . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (4,5)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (9,6)
+
+--- Status after Turn 82 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (4,5) HP=1 shells=6 lives=1 | Kills: 4 Deaths: 1 K/D: 4.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (9,6) HP=1 shells=6 lives=0 | Kills: 3 Deaths: 2 K/D: 1.50 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 83 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . C . . . . . *
+*. . . . . . . . . E *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (5,6)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (9,7)
+
+--- Status after Turn 83 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (5,6) HP=1 shells=6 lives=1 | Kills: 4 Deaths: 1 K/D: 4.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (9,7) HP=1 shells=6 lives=0 | Kills: 3 Deaths: 2 K/D: 1.50 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 84 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . C . . . . *
+*. . . . . . . . . E *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (6,5)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (8,7)
+
+--- Status after Turn 84 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (6,5) HP=1 shells=6 lives=1 | Kills: 4 Deaths: 1 K/D: 4.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (8,7) HP=1 shells=6 lives=0 | Kills: 3 Deaths: 2 K/D: 1.50 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 85 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . C . . . *
+*. . . . . . . . . . *
+*. . . . . . . . E . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (6,6)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (9,7)
+
+--- Status after Turn 85 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (6,6) HP=1 shells=6 lives=1 | Kills: 4 Deaths: 1 K/D: 4.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (9,7) HP=1 shells=6 lives=0 | Kills: 3 Deaths: 2 K/D: 1.50 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 86 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . C . . . *
+*. . . . . . . . . E *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (6,7)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (8,8)
+
+--- Status after Turn 86 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (6,7) HP=1 shells=6 lives=1 | Kills: 4 Deaths: 1 K/D: 4.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (8,8) HP=1 shells=6 lives=0 | Kills: 3 Deaths: 2 K/D: 1.50 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 87 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . C . . . *
+*. . . . . . . . E . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (6,8)
+
+Star is thinking...
+  Star sees no one.
+Star moves to (7,8)
+
+--- Status after Turn 87 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (6,8) HP=1 shells=6 lives=1 | Kills: 4 Deaths: 1 K/D: 4.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0) 
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (7,8) HP=1 shells=6 lives=0 | Kills: 3 Deaths: 2 K/D: 1.50 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 88 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . C E . . *
+*. . . . . . . . . . *
+**********************
+Alpha is thinking...
+  Alpha sees Star at (7,8)
+Alpha fires in + pattern!
+  Targeting Star at (7,8)... missed.
+Alpha moves to (7,9)
+
+Star is thinking...
+  Star sees Alpha at (7,9)
+Star fires across two rows!
+  Targeting Alpha at (7,9)... HIT!
+  Alpha is hit! (Health=0)
+  Alpha is destroyed!
+Star moves to (7,7)
+
+--- Status after Turn 88 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (7,9) HP=0 shells=5 lives=0 | Kills: 4 Deaths: 2 K/D: 2.00 | Upgrades: HideBot(0) PlusShooter ScoutBot(0)  [DEAD]
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (7,7) HP=1 shells=5 lives=0 | Kills: 4 Deaths: 2 K/D: 2.00 | Upgrades: DoubleRowShooter TrackBot 
+
+----- Turn 89 -----
+**********************
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+*. . . . . . . E . . *
+*. . . . . . . . . . *
+*. . . . . . . . . . *
+**********************
+Alpha respawns at (6,5) with 1 health and 5 shells
+Alpha is thinking...
+  Alpha sees no one.
+Alpha moves to (7,6)
+
+Star is thinking...
+  Star sees Alpha at (7,6)
+Star fires across two rows!
+  Targeting Alpha at (7,6)... HIT!
+  Alpha is hit! (Health=0)
+  Alpha is destroyed!
+Star moves to (8,7)
+
+--- Status after Turn 89 ---
+Kidd at (2,1) HP=0 shells=8 lives=0 | Kills: 0 Deaths: 3 K/D: 0.00 | Upgrades:  [DEAD]
+Jet at (7,6) HP=0 shells=6 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) CrossShooter  [DEAD]
+Alpha at (7,6) HP=0 shells=5 lives=0 | Kills: 4 Deaths: 3 K/D: 1.33 | Upgrades: HideBot(0) PlusShooter ScoutBot(0)  [DEAD]
+Beta at (6,0) HP=0 shells=8 lives=0 | Kills: 1 Deaths: 3 K/D: 0.33 | Upgrades: CrossShooter  [DEAD]
+Star at (8,7) HP=1 shells=4 lives=0 | Kills: 5 Deaths: 2 K/D: 2.50 | Upgrades: DoubleRowShooter TrackBot 
+
