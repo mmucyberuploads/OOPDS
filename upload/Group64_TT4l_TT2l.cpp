@@ -601,7 +601,7 @@ public:
                         if (dx == 0 && dy == 0) continue; // Skip target's position
                         int nx = closest->getX() + dx, ny = closest->getY() + dy;
                         if (nx < 0 || ny < 0 || nx >= width || ny >= height) continue; // Boundary check
-                        bool occ = false;
+                        bool occ = false; //Occupied flag
                         for (auto r : robots) {
                             if (r->isAlive() && r->getX() == nx && r->getY() == ny) {
                                 occ = true; // Spot occupied
